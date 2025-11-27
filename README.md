@@ -46,7 +46,7 @@ Each table is connected using **PRIMARY KEY** and **FOREIGN KEY** constraints fo
 
 | File Name | Description |
 |----------|-------------|
-| `ipl_cricket_project.sql` | Complete SQL code with table creation and data inserts |
+| `Project+Requirements & Database_Design.sql` | Complete SQL code with table creation and data inserts |
 | `README.md` | Project documentation |
 
 ---
